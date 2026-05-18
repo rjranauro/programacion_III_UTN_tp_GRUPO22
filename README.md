@@ -49,15 +49,15 @@ Entre sus responsabilidades se incluyen:
 
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
-| 1 | santi | Cuerpo Técnico y Estrategia | Mi Equipo |
-| 2 | maxi gomez| Rivales Históricos | Mi Equipo |
-| 3 | martin  | Fase de Grupos | El Mundial |
-| 4 | luca martin | Camino del Equipo | El Mundial |
-| 5 | hugo | Detalles de Partidos | El Mundial |
-| 6 | nehuen | Estadísticas y Premios | El Mundial |
-| 7 | roman | Historial de Mundiales | El Mundial |
-| 8 | dylan | Eventos en Vivo | La Final |
-| 9 | grupal | Estado del Equipo en la Final | La Final |
+| 1 | Santiago Gonzalez | Cuerpo Técnico y Estrategia | Mi Equipo |
+| 2 | Maxiliano Gomez | Rivales Históricos | Mi Equipo |
+| 3 | Martin Negro  | Fase de Grupos | El Mundial |
+| 4 | Luca Martin | Camino del Equipo | El Mundial |
+| 5 | Hugo Tosto | Detalles de Partidos | El Mundial |
+| 6 | Agustin Carneiro | Estadísticas y Premios | El Mundial |
+| 7 | Roman Ranauro | Historial de Mundiales | El Mundial |
+| 8 | Dylan D'Amico | Eventos en Vivo | La Final |
+| 9 | Grupal / Por asignar | Estado del Equipo en la Final | La Final |
 | 10 | a | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
 > **Jugar la Final** es obligatoria para la aprobación del TP y responsabilidad de todo el grupo. Debe poder jugarse de principio a fin sin errores. De ella dependen: Eventos en Vivo, Estado del Equipo, Estadísticas y Premios e Historial de Mundiales.
