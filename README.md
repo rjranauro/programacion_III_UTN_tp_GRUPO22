@@ -39,7 +39,7 @@ Entre sus responsabilidades se incluyen:
 - Supervisar la integración entre las distintas funcionalidades.
 - Validar que el proyecto pueda ejecutarse correctamente de punta a punta.
 - Centralizar consultas técnicas y comunicación con la cátedra.
-- Ayudar a destrabar problemas técnicos dentro del equipo.
+- Ayudar a destrabar problemas técnicos dentro del equipo
 
 **Nombre del Tech Lead:**  Roman Ranauro
 
